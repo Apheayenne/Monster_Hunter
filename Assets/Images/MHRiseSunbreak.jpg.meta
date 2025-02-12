@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MHRiseSunbreak_0: 3366599286143505415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

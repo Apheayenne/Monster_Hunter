@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ff2fe1824bd367b4eba2fd4ff0f5bb0a
+guid: 0de36171cb49e1349810800af84e0a98
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7474979583575189285
-    second: MHRise_0
+      213: 4950249735367683052
+    second: Bombadgy_question_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MHRise_0
+      name: Bombadgy_question_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1280
+        width: 381
+        height: 277
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd814b14ca9834890800000000000000
-      internalID: -7474979583575189285
+      spriteID: cebef0228e1d2b440800000000000000
+      internalID: 4950249735367683052
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      MHRise_0: -7474979583575189285
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
