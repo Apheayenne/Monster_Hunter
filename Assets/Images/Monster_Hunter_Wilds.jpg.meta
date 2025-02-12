@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Monster_Hunter_Wilds_0: -8403180223725792508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bombadgy_question_0: 4950249735367683052
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
