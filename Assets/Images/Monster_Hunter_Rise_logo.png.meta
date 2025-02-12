@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Monster_Hunter_Rise_logo_0: -5221443009011715984
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

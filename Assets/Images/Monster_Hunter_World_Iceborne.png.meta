@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Monster_Hunter_World_Iceborne_0: -5523174094540082558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

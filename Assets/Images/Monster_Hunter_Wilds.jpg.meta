@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ff2fe1824bd367b4eba2fd4ff0f5bb0a
+guid: fe00ffb60e404334fa525a2221fb4fc8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7474979583575189285
-    second: MHRise_0
+      213: -8403180223725792508
+    second: Monster_Hunter_Wilds_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MHRise_0
+      name: Monster_Hunter_Wilds_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1280
+        width: 2320
+        height: 1388
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd814b14ca9834890800000000000000
-      internalID: -7474979583575189285
+      spriteID: 4039c35cb18e16b80800000000000000
+      internalID: -8403180223725792508
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      MHRise_0: -7474979583575189285
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
